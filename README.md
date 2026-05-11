@@ -247,15 +247,17 @@ He also led a UX overhaul that turned an obscure feature into a central, user-ce
 
 ### [Chrome DBSC: the shift from bearer cookies to device-bound session credentials](https://blogs.pranjalkumar.in/blog/chrome-dbsc-device-bound-session-credentials)
 *Pranjal Blogs · May 10, 2026*
-
-    An engineering deep dive into Chrome's Device Bound Session Credentials: how TPM-backed keys, proof-of-possession sessions, and short-lived cookies change the web session security model.
+```txt
+An engineering deep dive into Chrome's Device Bound Session Credentials: how TPM-backed keys, proof-of-possession sessions, and short-lived cookies change the web session security model.
+```
 
 ---
 
 ### [AWS S3: how cheap HDDs became durable storage at scale](https://blogs.pranjalkumar.in/blog/aws-s3-object-storage)
 *Pranjal Blogs · Nov 4, 2025*
-
-    How Amazon S3 turns unreliable commodity HDDs into planet-scale durable storage through erasure coding, parallelism, repair loops, and distributed metadata systems.
+```txt
+How Amazon S3 turns unreliable commodity HDDs into planet-scale durable storage through erasure coding, parallelism, repair loops, and distributed metadata systems.
+```
 
 </details>
 
