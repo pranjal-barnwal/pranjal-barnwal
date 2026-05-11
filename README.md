@@ -43,7 +43,9 @@ npx pranjal-kumar
 
 
 <details>
-<summary><b>Resume</b></summary>
+<summary><b>Read more:</b></summary>
+
+# Resume
 
 <details>
 <summary><b>Experience</b></summary>
@@ -123,25 +125,31 @@ iTwin Services: Validation Platform Team
 <summary><b>Education</b></summary>
 
 ## Education
-### **Bachelor of Technology - BTech, Computer Science** — C. V. Raman Global University, Bhubaneswar (Nov, 2022 - May 2024)
+### Bachelor of Technology - BTech, Computer Science: *C. V. Raman Global University, Bhubaneswar* (Nov, 2022 - May 2024)
 - Activities and societies: Competitive Programming, UI-UX, Chess, Photography
 - Hackathons & Events: Codekaze, Flutter Festival, Data Science Track, Android Study Jams, 30 Days of Google Cloud
 - Grade: SGPA: 9.32
 
 
-### **XI - XII, CBSE - PCM** — Munam Public School, Hazaribagh (2018 - 2020)
+### XI - XII, CBSE - PCM: *Munam Public School, Hazaribagh* (2018 - 2020)
 - Activities and societies: Debate, Quiz
 - Grade: 87%
 - JEE: 89.97 percentile
 
 
-### **I - X, CBSE** — DAV Public School, Hazaribagh (Nov, 2022 - May 2024)
+### I - X, CBSE: *DAV Public School, Hazaribagh* (Nov, 2022 - May 2024)
 - Activities and societies: Debate, Quiz, Reading club
 - International Mathematics Olympiad (IMO Silver Medalist)
 - AIR Top 500 in IMO NTSE
 - Grade: 89%
 
 </details>
+
+
+
+<details>
+<summary><b>Skills</b></summary>
+
 
 ## Skills
 - Languages: JavaScript, Python, C++
@@ -150,5 +158,97 @@ iTwin Services: Validation Platform Team
 
 ## Certifications
 - Your Certification
+
+</details>
+
+
+<details>
+<summary><b>Recommendations</b></summary>
+
+## Recommendations
+
+### Waqar Ahmed, Director at Bentley Systems
+    I had the pleasure of working with Pranjal during a 6-month rotation, where he consistently impressed me with his technical ability and professional attitude. He took on some very challenging prototypes, including a visualization project and the development of a reusable node package.
+    What stood out to me was his ability to think independently and approach problems with unique, well-crafted solutions. Pranjal is both dedicated and thorough, and I was genuinely impressed by the quality of his work throughout our time together.
+    He is certainly a talented young developer with strong problem-solving skills and an excellent attitude. I have no doubt he will continue to achieve great things in his career.
+
+### Abhisekh Sarkar, Software Engineer 2 at Bentley Systems
+    I had the privilege of mentoring Pranjal Kumar during his second rotation. Over six months, he spearheaded our move away from legacy tools, built a unified structural-model client that dramatically simplifies how engineers interact with our CDC server, and introduced natural-language querying that opened data access to a wider audience. 
+    He also led a UX overhaul that turned an obscure feature into a central, user-centric workflow. His work consistently reflected deep product empathy, technical vision, and an ability to rally cross-functional teams around a shared goal. Any organization would be lucky to have Pranjal's combination of creativity, drive, and leadership.
+
+</details>
+
+<details>
+<summary><b>Publications</b></summary>
+
+## Publications
+
+### [Chrome DBSC: the shift from bearer cookies to device-bound session credentials](https://blogs.pranjalkumar.in/blog/chrome-dbsc-device-bound-session-credentials)
+*Pranjal Blogs · May 10, 2026*
+
+    An engineering deep dive into Chrome's Device Bound Session Credentials: how TPM-backed keys, proof-of-possession sessions, and short-lived cookies change the web session security model.
+
+### [AWS S3: how cheap HDDs became durable storage at scale](https://blogs.pranjalkumar.in/blog/aws-s3-object-storage)
+*Pranjal Blogs · Nov 4, 2025*
+
+    How Amazon S3 turns unreliable commodity HDDs into planet-scale durable storage through erasure coding, parallelism, repair loops, and distributed metadata systems.
+
+</details>
+
+<details>
+<summary><b>Honors & Awards</b></summary>
+
+## Honors & Awards
+
+### Architecture Kata Winner
+***Issued by Bentley Systems · Mar 2026* | Associated with Bentley Systems**
+
+Road Warrior kata solves real-time trip data consolidation across heterogeneous reservation sources through an event-driven microservices architecture with Backend-for-Frontend pattern, balancing elastic scalability, near-real-time freshness, and multi-platform UX richness while accepting distributed consistency tradeoffs and operational complexity.
+- [Recognized by Bentley's CTO](https://www.linkedin.com/in/pranjal--kumar/overlay/Honor/1485011641/treasury/?profileId=ACoAADLcjbgBHOOjIZppBI5y9eyxS5oA11e0igg), Julien Moutte for exceptional performance
+- **GitHub** - [pranjal-barnwal/road-warrior](https://github.com/pranjal-barnwal/road-warrior)
+
+**Team:** Pranjal Kumar, Karthikeyan Vedi, Subrato Pattanaik, Afraj Attar, Ajinkya Gholape, Shivam Chaurasiya
+
+
+### Bentley Octo Challenge 2025 | Hackathon
+***Issued by Bentley Systems · Dec 2025* | Associated with Bentley Systems**
+
+Leveraged AI & MCP (Model Context Protocol) to enhance the design and construction processes in the AEC (Architecture, Engineering, and Construction) industry.
+
+Octo Challenge is a company-wide hackathon in Bentley focused on problem-solving by leveraging latest tools.
+- **GitHub** - [pranjal-kumar-work/octo-challenge-2025](https://github.com/pranjal-kumar-work/octo-challenge-2025)
+
+### Smart India Hackathon - 2023 Finalist, Nationals
+***Issued by Smart India Hackathon · Sep 2023* | Associated with C. V. Raman Global University, Bhubaneswar**
+
+Zaira: Blockchain-based decentralized ODOP (One District, One Product) portal to empower local craftsmen of Kashmir, built on the Ethereum network.
+
+- **Organization:** Gov. of Jammu & Kashmir
+- **PS Code:** 1355
+- **Problem Statement:** Developing solutions to effective market linkage and promotion of One District One Product
+- **Team Ode to Code:** Pranjal Kumar (Lead), Suraj Kumar, Ravikant Sahu, S Bisakha, Aroshi Pattanaik, Annu Kumari
+- **Mentor:** Dr. Debendra Muduli
+- **Tech:** Truffle, Ganache, Ethereum, Metamask, Next.Js, Typescript
+
+### Letter of Recommendation
+***Issued by IEEE Bombay · Feb 2023* | Associated with IEEE Bombay Section**
+
+Recognized as the top-performing intern by IEEE Bombay Section; received Letter of Recommendation for extraordinary technical contributions and professional excellence.
+
+### Top 30 Globally in CodeChef April Long 2022 | Division 3
+***Issued by CodeChef · Apr 2022***
+
+Achieved Global Rank #27 in the April Long One 2022 (Division 4, Rated) CodeChef contest.
+
+### Knight @LeetCode
+***Issued by LeetCode***
+- Top 5% Globally
+- Solved 500+ problems
+- Knight badge with global rating of 1880+
+
+### Scholarship from Gov. of Jharkhand
+***Issued by Government of Jharkhand* | Associated with C. V. Raman Global University, Bhubaneswar**
+
+Awarded merit scholarship for academic excellence from Government of Jharkhand.
 
 </details>
