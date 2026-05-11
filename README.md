@@ -40,3 +40,115 @@ npx pranjal-kumar
 [![](https://visitcount.itsvg.in/api?id=pranjal-barnwal&label=Profile%20Views&color=3&icon=5&pretty=true)](https://github.com/pranjal-barnwal)
 </div>
 
+
+
+<details>
+<summary><b>Resume</b></summary>
+
+<details>
+<summary><b>Experience</b></summary>
+
+## Experience
+### Associate Software Engineer: *Bentley Systems* (Aug, 2024 - Present)
+Infrastructure Cloud: BIC Core Capabilities
+- worked on One Core Portal, Bentley’s unified digital experience layer
+- collaborated closely with cross-teams for integrating micro-frontends in central dashboard
+- integrated LD Server-SDK utilities to handle user & environment-specific feature flag behavior
+- implemented Scenes IAM permissions in Authorization and conditional access workflows using LaunchDarkly
+
+Bentley Open Applications: Structural Group
+- @bentley/nlp-sql-agent: created pluggable node module for communicating with sqlite files in Natural Language using LLM
+- built the client for CDC gRPC server, which allows to build Staad Physical models directly in Electron application; handled design, architecture, communication channels & more
+- devised algorithm for creating smooth Plate Stress patterns based on stress values at plate corners
+- researched on merging logic for 3d-models, similar to 3-way merge method
+- redesigned buried synchronizer UI, turned an obscure sync flow to future roadmap
+
+iTwin Services: Validation Platform
+- optimized API endpoints, reduced time complexity by using batch queries
+- streamlined API requests across all projects by building a custom node package and utilizing the same wrapper across projects
+- enabled telemetry data access on APIs using Azure App Insights
+- managed control deployment and rollout of API versions using Octopus
+
+### Software Engineer Intern: *Bentley Systems* (Feb, 2024 - Jul, 2024)
+iTwin Services: Validation Platform Team
+- built POC app using electron for visualizing clashes/overriding on 3d-models/imodels
+- developed automated benchmarking API for Clash Detection, reducing analysis time on 3d-models by 85% by creating automated workflow
+
+
+### Software Developer Intern: *JMAN Group* (Jan, 2024 - Feb, 2024)
+- launched a learning platform with <1s TTI and 95+ Lighthouse scores
+- drafted modular, stateful UI with Tailwind, hooks, and auth guards
+- created a dynamic admin panel with RBAC, custom Cloudinary media uploads, and dashboard analytics
+- scraped 5,000+ eyewear SKUs from the company page using browser automation
+
+
+### Software Developer: *R K Trading Co.* (Sep, 2023 - Oct, 2023)
+- owned the entire lifecycle of RK Trading’s web platform; from design & development to deployment
+- optimized performance with lazy loading, code splitting, and Lighthouse best practices
+- handled end-to-end DNS configuration and deployment, ensuring high uptime and fast global resolution
+
+
+### Web Development Lead: *Google Developer Groups on Campus - CVRGU* (Jul, 2022 - Jun, 2023)
+- spearheaded 10+ high-impact events: hackathons, tech talks, and hands-on labs with 200+ total attendees
+- led deep-dive sessions on system design fundamentals, covering scalability, database sharding, caching, and distributed systems
+- delivered a DevOps essentials track covering containerization, CI/CD pipelines, and deployment strategies
+
+
+### Full Stack Developer Intern: *IEEE Bombay Section* (Dec, 2022 - Feb, 2023)
+- developed 3-way ICO generators, integrating Svelte-Navigator routing
+- landing page prototype in Figma on a 12-column layout
+- merging PRs, administering and resolving conflicts in the repo
+- firebase deployment on top of Svelte framework & led a team of 10
+- awarded as top-performing intern with Letter of Recommendation
+
+
+### Flutter Developer: *F Square Media* (Sep, 2022 - Nov, 2022)
+- developed & designed end-to-end cross-platform app for Restaurant aggregation business
+- utilized the concept of geo-hashing, and developed robust algorithms for location-based services in backend
+
+
+### Cyber Security Intern: *FireShark* (Apr, 2022 - May, 2022)
+- optimized resource utilization API's by changing the structure of response
+- worked extensively on reconnaissance techniques
+- engaged with ciphering(MD5, SHA-256), authentication, salts, cookies
+- worked hands-on with Linux distributions like Ubuntu and ParrotOS
+
+
+### Software Developer: *Money Matters* (Jul, 2021 - Aug, 2021)
+- delivered high-quality, robust production code for a Chartered Accountant Firm
+- provided leadership as a distinguished developer covering multiple domains in the project
+</details>
+
+<details>
+<summary><b>Education</b></summary>
+
+## Education
+### **Bachelor of Technology - BTech, Computer Science** — C. V. Raman Global University, Bhubaneswar (Nov, 2022 - May 2024)
+- Activities and societies: Competitive Programming, UI-UX, Chess, Photography
+- Hackathons & Events: Codekaze, Flutter Festival, Data Science Track, Android Study Jams, 30 Days of Google Cloud
+- Grade: SGPA: 9.32
+
+
+### **XI - XII, CBSE - PCM** — Munam Public School, Hazaribagh (2018 - 2020)
+- Activities and societies: Debate, Quiz
+- Grade: 87%
+- JEE: 89.97 percentile
+
+
+### **I - X, CBSE** — DAV Public School, Hazaribagh (Nov, 2022 - May 2024)
+- Activities and societies: Debate, Quiz, Reading club
+- International Mathematics Olympiad (IMO Silver Medalist)
+- AIR Top 500 in IMO NTSE
+- Grade: 89%
+
+</details>
+
+## Skills
+- Languages: JavaScript, Python, C++
+- Frameworks: React, Node.js, Flutter
+- Tools: Git, Docker, AWS
+
+## Certifications
+- Your Certification
+
+</details>
