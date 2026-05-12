@@ -6,20 +6,17 @@
 <p align="center"><b>Introducing the Tech Alchemist:</b> Unleashing the Magic of Bits and Bytes!</p>
 
 <!-- Typing Effect -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8ccf72&center=true&lines=App+Developer;Full+Stack+Developer;Competitive+Programmer;DevOps+Enthusiast;Open+Source+Developer;Cloud+Computing;Follow+@pranjal-barnwal)](https://shareit.pics/0Y6XCT)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8ccf72&center=true&lines=Software+Engineer;Full+Stack+Developer;System-Design;Software+Architecture;Microservices;Competitive+Programmer;DevOps;Open+Source;Cloud+Computing)](https://shareit.pics/0Y6XCT)
 
 
-<!-- Stats -->
-<a href="http://www.github.com/pranjal-barnwal"><img src="https://github-readme-stats.vercel.app/api?username=pranjal-barnwal&show_icons=true&hide=&count_private=true&title_color=8ccf72&text_color=ffffff&icon_color=8cd073&bg_color=000000&hide_border=true&show_icons=true" alt="pranjal-barnwal's GitHub stats" /></a>
-<a href="http://www.github.com/pranjal-barnwal"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pranjal-barnwal&stroke=ffffff&background=000000&ring=8ccf72&fire=fa8b00&currStreakNum=ffffff&currStreakLabel=8cd073&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <hr>
 
 <h2 align="center">Connect with me: <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60"></h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/pranjal-barnwal"><img src="https://img.shields.io/badge/-Pranjal_Kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranjal-barnwal/" /></a>
-<a href="mailto:mail@pranjalkumar.in"><img src="https://img.shields.io/badge/-pranjalbarn@gmail.com-eb493b?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mail@pranjalkumar.in" /></a>
-<a href="https://www.figma.com/@pranjal_barnwal"><img src="https://img.shields.io/badge/-pranjal__barnwal_-09c47c?style=flat-square&logo=figma&logoColor=white&link=https://www.figma.com/@pranjal_barnwal" /></a><a href="https://instagram.com/pranjal__barnwal"><img src="https://img.shields.io/badge/-pranjal____barnwal_-fd7880?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/pranjal__barnwal" /></a>
+<a href="mailto:mail@pranjalkumar.in"><img src="https://img.shields.io/badge/-mail@pranjalkumar.in-eb493b?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mail@pranjalkumar.in" /></a>
+<a href="https://www.behance.net/pranjal--kumar"><img src="https://img.shields.io/badge/-pranjal--kumar-0d5bfe?style=flat-square&logo=behance&logoColor=white&link=https://www.behance.net/pranjal--kumar" /></a><a href="https://instagram.com/pranjal__barnwal"><img src="https://img.shields.io/badge/-pranjal____barnwal_-fd7777?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/pranjal__barnwal" /></a>
 </p>
 <be>
 
@@ -327,5 +324,15 @@ Achieved Global Rank #27 in the April Long One 2022 (Division 4, Rated) CodeChef
 ***Issued by Government of Jharkhand* | Associated with C. V. Raman Global University, Bhubaneswar**
 
 Awarded merit scholarship for academic excellence from Government of Jharkhand.
+
+</details>
+
+---
+
+### Hire me to unlock my full potential:
+- <a href="https://www.linkedin.com/in/pranjal--kumar">LinkedIn</a>
+- <a href="mailto:mail@pranjalkumar.in">Email</a>
+- <a href="https://x.com/PranjalKumar__/highlights">X/Twitter</a>
+
 
 </details>
