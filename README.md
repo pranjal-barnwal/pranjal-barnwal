@@ -1,9 +1,9 @@
 ## Pranjal Kumar
-    Software Engineer @Bentley Systems | Ex: JMAN Group • IEEE Bombay • IBM
-    
-    Full Stack • Architecture | Knight @LeetCode, Top 5%
-    
-    Smart India Hackathon 2023 Finalist | AWS AI ML Scholar | Web Lead @GDSC-CVRGU | CS @CGU-2024
+- Software Engineer @Bentley Systems | Ex: JMAN Group • IEEE Bombay • IBM
+- Full Stack • Architecture | Knight @LeetCode, Top 5%
+- Smart India Hackathon 2023 Finalist | AWS AI ML Scholar | Web Lead @GDSC-CVRGU | CS @CGU-2024
+
+---
 
 Software Engineer at [Bentley Systems](https://www.bentley.com). I build distributed systems, microservices, architecture, system design, full-stack apps & more.
 
