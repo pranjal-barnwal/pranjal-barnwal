@@ -1,42 +1,45 @@
-<div align="center">
-<img src="https://github.com/pranjal-barnwal/pranjal-barnwal/assets/71400605/3cb380d0-43a3-44c1-8476-7789d4f07194" alt="Pranjal Kumar">
-<br>
-<h1>Hi, I'm Pranjal Kumar  
-<img src="https://github.com/askmoneymatters/.github/assets/71400605/718289e6-b71e-4c01-8fb0-66a5242029ff" width="70"></h1>
-<p align="center"><b>Introducing the Tech Alchemist:</b> Unleashing the Magic of Bits and Bytes!</p>
+## Pranjal Kumar
+    Software Engineer @Bentley Systems | Ex: JMAN Group • IEEE Bombay • IBM
+    
+    Full Stack • Architecture | Knight @LeetCode, Top 5%
+    
+    Smart India Hackathon 2023 Finalist | AWS AI ML Scholar | Web Lead @GDSC-CVRGU | CS @CGU-2024
 
-<!-- Typing Effect -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8ccf72&center=true&lines=Software+Engineer;Full+Stack+Developer;System-Design;Software+Architecture;Microservices;Competitive+Programmer;DevOps;Open+Source;Cloud+Computing)](https://shareit.pics/0Y6XCT)
+Software Engineer at [Bentley Systems](https://www.bentley.com). I build distributed systems, microservices, architecture, system design, full-stack apps & more.
 
+I also write about systems internals at [blogs.pranjalkumar.in](https://blogs.pranjalkumar.in).
 
+---
 
-<hr>
+### What I've built
 
-<h2 align="center">Connect with me: <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60"></h2>
-<p align="center">
-<a href="https://www.linkedin.com/in/pranjal-barnwal"><img src="https://img.shields.io/badge/-Pranjal_Kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranjal-barnwal/" /></a>
-<a href="mailto:mail@pranjalkumar.in"><img src="https://img.shields.io/badge/-mail@pranjalkumar.in-eb493b?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mail@pranjalkumar.in" /></a>
-<a href="https://www.behance.net/pranjal--kumar"><img src="https://img.shields.io/badge/-pranjal--kumar-0d5bfe?style=flat-square&logo=behance&logoColor=white&link=https://www.behance.net/pranjal--kumar" /></a><a href="https://instagram.com/pranjal__barnwal"><img src="https://img.shields.io/badge/-pranjal____barnwal_-fd7777?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/pranjal__barnwal" /></a>
-</p>
-<be>
+| Project | What it does |
+|---------|-------------|
+| **@bentley/nlp-sql-agent** | Node module enabling natural-language queries against SQLite via LLM: adopted across 3+ internal teams |
+| **CDC gRPC Client** | Real-time Staad Physical model construction in Electron: protobuf schema, bidirectional streaming, cross-team architecture |
+| **One Core Portal** | Micro-frontend integration layer for Bentley's unified digital experience across all product lines |
+| **Validation Platform** | Reduced API response times 60% (batch optimization), cut 3D model analysis time 85% (automated benchmarking) |
+| **[Road Warrior](https://github.com/pranjal-barnwal/road-warrior)** | Architecture Kata winner - event-driven microservices for real-time trip consolidation. [Recognized by CTO](https://www.linkedin.com/in/pranjal--kumar/overlay/Honor/1485011641/treasury/?profileId=ACoAADLcjbgBHOOjIZppBI5y9eyxS5oA11e0igg) |
 
+### Writing
 
-<h2 align="center">Try in Terminal:</h2>
+- [Chrome DBSC: the shift from bearer cookies to device-bound session credentials](https://blogs.pranjalkumar.in/blog/chrome-dbsc-device-bound-session-credentials) - TPM-backed keys, proof-of-possession, short-lived cookies
+- [AWS S3: how cheap HDDs became durable storage at scale](https://blogs.pranjalkumar.in/blog/aws-s3-object-storage) - erasure coding, repair loops, distributed metadata
+
+### Competitive Programming
+- LeetCode Knight badge (Top 5%, rating 1880+, 500+ problems) 
+- CodeChef 3 stars (Ranked 27 in the April Long One 2022)
+- Ranked #1 in my college’s competitive programming leaderboard
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/pranjal-barnwal) · [Email](mailto:mail@pranjalkumar.in) · [Blog](https://blogs.pranjalkumar.in) · [X](https://x.com/PranjalKumar__/highlights)
 
 ```bash
 npx pranjal-kumar
 ```
 
-
-<hr>
-
-<img src="https://github.com/pranjal-barnwal/pranjal-barnwal/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation">
-
-<hr/>
-
-[![](https://visitcount.itsvg.in/api?id=pranjal-barnwal&label=Profile%20Views&color=3&icon=5&pretty=true)](https://github.com/pranjal-barnwal)
-</div>
-
+---
 
 
 <details>
@@ -50,7 +53,7 @@ npx pranjal-kumar
 ## Experience
 ### Associate Software Engineer: *Bentley Systems* (Aug, 2024 - Present)
 Infrastructure Cloud: BIC Core Capabilities
-- worked on One Core Portal, Bentley’s unified digital experience layer
+- worked on One Core Portal, Bentley's unified digital experience layer
 - collaborated closely with cross-teams for integrating micro-frontends in central dashboard
 - integrated LD Server-SDK utilities to handle user & environment-specific feature flag behavior
 - implemented Scenes IAM permissions in Authorization and conditional access workflows using LaunchDarkly
@@ -85,7 +88,7 @@ iTwin Services: Validation Platform Team
 ---
 
 ### Software Developer: *R K Trading Co.* (Sep, 2023 - Oct, 2023)
-- owned the entire lifecycle of RK Trading’s web platform; from design & development to deployment
+- owned the entire lifecycle of RK Trading's web platform; from design & development to deployment
 - optimized performance with lazy loading, code splitting, and Lighthouse best practices
 - handled end-to-end DNS configuration and deployment, ensuring high uptime and fast global resolution
 
@@ -151,23 +154,6 @@ iTwin Services: Validation Platform Team
 - Grade: 89%
 
 </details>
-
-
-
-<details>
-<summary><b>Skills</b></summary>
-
-
-## Skills
-- Languages: JavaScript, Python, C++
-- Frameworks: React, Node.js, Flutter
-- Tools: Git, Docker, AWS
-
-## Certifications
-- Your Certification
-
-</details>
-
 
 <details>
 <summary><b>Licenses & Certifications</b></summary>
@@ -330,9 +316,8 @@ Awarded merit scholarship for academic excellence from Government of Jharkhand.
 ---
 
 ### Hire me to unlock my full potential:
-- <a href="https://www.linkedin.com/in/pranjal--kumar">LinkedIn</a>
-- <a href="mailto:mail@pranjalkumar.in">Email</a>
-- <a href="https://x.com/PranjalKumar__/highlights">X/Twitter</a>
-
+- [LinkedIn](https://www.linkedin.com/in/pranjal--kumar)
+- [Email](mailto:mail@pranjalkumar.in)
+- [X/Twitter](https://x.com/PranjalKumar__/highlights)
 
 </details>
