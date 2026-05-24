@@ -33,7 +33,7 @@ I also write about systems internals at [blogs.pranjalkumar.in](https://blogs.pr
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/pranjal-barnwal) · [Email](mailto:mail@pranjalkumar.in) · [Blog](https://blogs.pranjalkumar.in) · [X](https://x.com/PranjalKumar__/highlights)
+[LinkedIn](https://www.linkedin.com/in/pranjal--kumar) · [Email](mailto:mail@pranjalkumar.in) · [Blog](https://blogs.pranjalkumar.in) · [X](https://x.com/PranjalKumar__/highlights)
 
 ```bash
 npx pranjal-kumar
