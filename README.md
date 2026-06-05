@@ -24,6 +24,7 @@ I also write about systems internals at [blogs.pranjalkumar.in](https://blogs.pr
 ### Writing
 
 - [Chrome DBSC: the shift from bearer cookies to device-bound session credentials](https://blogs.pranjalkumar.in/blog/chrome-dbsc-device-bound-session-credentials) - TPM-backed keys, proof-of-possession, short-lived cookies
+- [Probabilistic data structures: Why Bloom filters are one of the most elegant hack](https://blogs.pranjalkumar.in/blog/probabilistic-data-structures-bloom-filters) - Probabilistic data structures; Bloom filters from first principles
 - [AWS S3: how cheap HDDs became durable storage at scale](https://blogs.pranjalkumar.in/blog/aws-s3-object-storage) - erasure coding, repair loops, distributed metadata
 
 ### Competitive Programming
@@ -35,12 +36,15 @@ I also write about systems internals at [blogs.pranjalkumar.in](https://blogs.pr
 
 [LinkedIn](https://www.linkedin.com/in/pranjal--kumar) · [Email](mailto:mail@pranjalkumar.in) · [Blog](https://blogs.pranjalkumar.in) · [X](https://x.com/PranjalKumar__/highlights)
 
+
+---
+
+### Try in [Terminal](https://www.npmjs.com/package/pranjal-kumar)
 ```bash
 npx pranjal-kumar
 ```
 
 ---
-
 
 <details>
 <summary><b>Read more:</b></summary>
@@ -51,7 +55,7 @@ npx pranjal-kumar
 <summary><b>Experience</b></summary>
 
 ## Experience
-### Associate Software Engineer: *Bentley Systems* (Aug, 2024 - Present)
+### [Associate Software Engineer: *Bentley Systems* (Aug, 2024 - Present)](https://www.linkedin.com/company/4929/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3By4V2mUxmRzWG2KN1vb3YYg%3D%3D)
 Infrastructure Cloud: BIC Core Capabilities
 - worked on One Core Portal, Bentley's unified digital experience layer
 - collaborated closely with cross-teams for integrating micro-frontends in central dashboard
@@ -72,14 +76,14 @@ iTwin Services: Validation Platform
 - managed control deployment and rollout of API versions using Octopus
 ---
 
-### Software Engineer Intern: *Bentley Systems* (Feb, 2024 - Jul, 2024)
+### [Software Engineer Intern: *Bentley Systems* (Feb, 2024 - Jul, 2024)](https://www.linkedin.com/company/4929/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3By4V2mUxmRzWG2KN1vb3YYg%3D%3D)
 iTwin Services: Validation Platform Team
 - built POC app using electron for visualizing clashes/overriding on 3d-models/imodels
 - developed automated benchmarking API for Clash Detection, reducing analysis time on 3d-models by 85% by creating automated workflow
 
 ---
 
-### Software Developer Intern: *JMAN Group* (Jan, 2024 - Feb, 2024)
+### [Software Developer Intern: *JMAN Group* (Jan, 2024 - Feb, 2024)](https://www.linkedin.com/company/1354745/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3By4V2mUxmRzWG2KN1vb3YYg%3D%3D)
 - launched a learning platform with <1s TTI and 95+ Lighthouse scores
 - drafted modular, stateful UI with Tailwind, hooks, and auth guards
 - created a dynamic admin panel with RBAC, custom Cloudinary media uploads, and dashboard analytics
@@ -87,21 +91,21 @@ iTwin Services: Validation Platform Team
 
 ---
 
-### Software Developer: *R K Trading Co.* (Sep, 2023 - Oct, 2023)
+### [Software Developer: *R K Trading Co.* (Sep, 2023 - Oct, 2023)](https://www.linkedin.com/company/104304103/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3By4V2mUxmRzWG2KN1vb3YYg%3D%3D)
 - owned the entire lifecycle of RK Trading's web platform; from design & development to deployment
 - optimized performance with lazy loading, code splitting, and Lighthouse best practices
 - handled end-to-end DNS configuration and deployment, ensuring high uptime and fast global resolution
 
 ---
 
-### Web Development Lead: *Google Developer Groups on Campus - CVRGU* (Jul, 2022 - Jun, 2023)
+### [Web Development Lead: *Google Developer Groups on Campus - CVRGU* (Jul, 2022 - Jun, 2023)](https://www.linkedin.com/company/69065757/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3By4V2mUxmRzWG2KN1vb3YYg%3D%3D)
 - spearheaded 10+ high-impact events: hackathons, tech talks, and hands-on labs with 200+ total attendees
 - led deep-dive sessions on system design fundamentals, covering scalability, database sharding, caching, and distributed systems
 - delivered a DevOps essentials track covering containerization, CI/CD pipelines, and deployment strategies
 
 ---
 
-### Full Stack Developer Intern: *IEEE Bombay Section* (Dec, 2022 - Feb, 2023)
+### [Full Stack Developer Intern: *IEEE Bombay Section* (Dec, 2022 - Feb, 2023)](https://www.linkedin.com/company/68754248/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3By4V2mUxmRzWG2KN1vb3YYg%3D%3D)
 - developed 3-way ICO generators, integrating Svelte-Navigator routing
 - landing page prototype in Figma on a 12-column layout
 - merging PRs, administering and resolving conflicts in the repo
@@ -116,7 +120,7 @@ iTwin Services: Validation Platform Team
 
 ---
 
-### Cyber Security Intern: *FireShark* (Apr, 2022 - May, 2022)
+### [Cyber Security Intern: *FireShark* (Apr, 2022 - May, 2022)](https://www.linkedin.com/company/72146730/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_position_details%3B8F7yIsHjRZGQeEqvuNKerg%3D%3D)
 - optimized resource utilization API's by changing the structure of response
 - worked extensively on reconnaissance techniques
 - engaged with ciphering(MD5, SHA-256), authentication, salts, cookies
@@ -124,7 +128,7 @@ iTwin Services: Validation Platform Team
 
 ---
 
-### Software Developer: *Money Matters* (Jul, 2021 - Aug, 2021)
+### [Software Developer: *Money Matters* (Jul, 2021 - Aug, 2021)](https://www.linkedin.com/company/83005356/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_position_details%3B8F7yIsHjRZGQeEqvuNKerg%3D%3D)
 - delivered high-quality, robust production code for a Chartered Accountant Firm
 - provided leadership as a distinguished developer covering multiple domains in the project
 </details>
@@ -133,21 +137,21 @@ iTwin Services: Validation Platform Team
 <summary><b>Education</b></summary>
 
 ## Education
-### Bachelor of Technology - BTech, Computer Science: *C. V. Raman Global University, Bhubaneswar* (Nov, 2022 - May 2024)
-- Activities and societies: Competitive Programming, UI-UX, Chess, Photography
+### [Bachelor of Technology - BTech, Computer Science: *C. V. Raman Global University, Bhubaneswar* (Nov, 2022 - May 2024)](https://cgu-odisha.ac.in/)
+- Activities and societies: Competitive Programming, UI-UX, Chess, Photography, Badminton
 - Hackathons & Events: Codekaze, Flutter Festival, Data Science Track, Android Study Jams, 30 Days of Google Cloud
-- Grade: SGPA: 9.32
+- Grade: [CGPA: 8.74](https://www.scribd.com/document/1045659856/Pranjal-Kumar-20010130-CGU-Odisha-College-BTech-result-CSE)
 
 ---
 
-### XI - XII, CBSE - PCM: *Munam Public School, Hazaribagh* (2018 - 2020)
+### [XI - XII, CBSE - PCM: *Munam Public School, Hazaribagh* (2018 - 2020)](https://www.munampublicschool.com/)
 - Activities and societies: Debate, Quiz
 - Grade: 87%
 - JEE: 89.97 percentile
 
 ---
 
-### I - X, CBSE: *DAV Public School, Hazaribagh* (Nov, 2022 - May 2024)
+### [I - X, CBSE: *DAV Public School, Hazaribagh* (Nov, 2022 - May 2024)](https://davhzb.ac.in/)
 - Activities and societies: Debate, Quiz, Reading club
 - International Mathematics Olympiad (IMO Silver Medalist)
 - AIR Top 500 in IMO NTSE
@@ -165,12 +169,6 @@ iTwin Services: Validation Platform Team
 
 ---
 
-### [Python for Machine Learning & Data Science Masterclass](https://www.udemy.com/certificate/UC-68391fa5-b10b-4cbb-82e8-c48ed5683f25/)
-*Issued by Udemy · Oct 2022*
-- **Credential ID:** UC-68391fa5-b10b-4cbb-82e8-c48ed5683f25
-
----
-
 ### [Cybersecurity Essentials](https://www.credly.com/badges/951341db-db03-4aac-a9b4-1cc51787feb9)
 *Issued by Cisco Networking Academy · Jun 2023*
 - **Credential ID:** 951341db-db03-4aac-a9b4-1cc51787feb9
@@ -180,6 +178,12 @@ iTwin Services: Validation Platform Team
 ### [AWS Academy Cloud Foundations](https://www.credly.com/badges/81013663-e96e-4b9b-9f9c-d922132e3692)
 *Issued by Amazon Web Services (AWS) · Nov 2022*
 - **Credential ID:** 81013663-e96e-4b9b-9f9c-d922132e3692
+
+---
+
+### [Python for Machine Learning & Data Science Masterclass](https://www.udemy.com/certificate/UC-68391fa5-b10b-4cbb-82e8-c48ed5683f25/)
+*Issued by Udemy · Oct 2022*
+- **Credential ID:** UC-68391fa5-b10b-4cbb-82e8-c48ed5683f25
 
 ---
 
@@ -204,22 +208,28 @@ iTwin Services: Validation Platform Team
 <details>
 <summary><b>Recommendations</b></summary>
 
-## Recommendations
+## [Recommendations](https://www.linkedin.com/in/pranjal--kumar/details/recommendations/?detailScreenTabIndex=0)
 
-### Waqar Ahmed, Director at Bentley Systems
-```txt
-I had the pleasure of working with Pranjal during a 6-month rotation, where he consistently impressed me with his technical ability and professional attitude. He took on some very challenging prototypes, including a visualization project and the development of a reusable node package.
-What stood out to me was his ability to think independently and approach problems with unique, well-crafted solutions. Pranjal is both dedicated and thorough, and I was genuinely impressed by the quality of his work throughout our time together.
-He is certainly a talented young developer with strong problem-solving skills and an excellent attitude. I have no doubt he will continue to achieve great things in his career.
-```
+### [Sunand Sandurkar, Senior Director, Infrastructure IoT at Bentley Systems](https://www.linkedin.com/in/sunand-sandurkar-704ab5/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recommendations_details%3BNWYKADkuSA6mIDc2VDfzUA%3D%3D)
+    I had the pleasure of working closely with Pranjal and can confidently say that he is the kind of engineer you want in your core technical initiatives. 
+    Pranjal has a rare combination of architectural vision and the grit to solve complex, systemic bugs. He recently took the initiative to propose and design an event-driven architecture that replaced a legacy cron polling. His sharp system design skills were further proven when he anchored our team to a runner-up finish in the company-wide Architecture Kata, designing a highly resilient, distributed trip-aggregation platform on Azure.
+    Beyond high-level architecture, Pranjal is incredibly detail-oriented when it comes to code quality and UX integrity. Whether it’s hardening state persistence to prevent data loss or tracing race conditions across complex calculation pipelines, Pranjal consistently delivers data correctness and reliability. Pranjal is a diligent software engineer and a massive asset to any engineering organization.
+
+### [Waqar Ahmed, Director at Bentley Systems](https://www.linkedin.com/in/waqar-ahmed-5032851/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recommendations_details%3BNWYKADkuSA6mIDc2VDfzUA%3D%3D)
+    I had the pleasure of working with Pranjal during a 6-month rotation, where he consistently impressed me with his technical ability and professional attitude. He took on some very challenging prototypes, including a visualization project and the development of a reusable node package.
+    What stood out to me was his ability to think independently and approach problems with unique, well-crafted solutions. Pranjal is both dedicated and thorough, and I was genuinely impressed by the quality of his work throughout our time together.
+    He is certainly a talented young developer with strong problem-solving skills and an excellent attitude. I have no doubt he will continue to achieve great things in his career.
+
+### [Abhisekh Sarkar, Software Engineer 2 at Bentley Systems](https://www.linkedin.com/in/abhisekh-sarkar-918a4298/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recommendations_details%3BNWYKADkuSA6mIDc2VDfzUA%3D%3D)
+    I had the privilege of mentoring Pranjal Kumar during his second rotation. Over six months, he spearheaded our move away from legacy tools, built a unified structural-model client that dramatically simplifies how engineers interact with our CDC server, and introduced natural-language querying that opened data access to a wider audience. 
+    He also led a UX overhaul that turned an obscure feature into a central, user-centric workflow. His work consistently reflected deep product empathy, technical vision, and an ability to rally cross-functional teams around a shared goal. Any organization would be lucky to have Pranjal's combination of creativity, drive, and leadership.
+
+### [Hannan Satopay, Building @ Craftlab.ai | ET Edge 40 Under 40 (West 2025)](https://www.linkedin.com/in/hannansatopay/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recommendations_details%3BNWYKADkuSA6mIDc2VDfzUA%3D%3D)
+    I had the pleasure of working with Pranjal during a 6-month rotation, where he consistently impressed me with his technical ability and professional attitude. He took on some very challenging prototypes, including a visualization project and the development of a reusable node package.
+    What stood out to me was his ability to think independently and approach problems with unique, well-crafted solutions. Pranjal is both dedicated and thorough, and I was genuinely impressed by the quality of his work throughout our time together.
+    He is certainly a talented young developer with strong problem-solving skills and an excellent attitude. I have no doubt he will continue to achieve great things in his career.
 
 ---
-
-### Abhisekh Sarkar, Software Engineer 2 at Bentley Systems
-```txt
-I had the privilege of mentoring Pranjal Kumar during his second rotation. Over six months, he spearheaded our move away from legacy tools, built a unified structural-model client that dramatically simplifies how engineers interact with our CDC server, and introduced natural-language querying that opened data access to a wider audience. 
-He also led a UX overhaul that turned an obscure feature into a central, user-centric workflow. His work consistently reflected deep product empathy, technical vision, and an ability to rally cross-functional teams around a shared goal. Any organization would be lucky to have Pranjal's combination of creativity, drive, and leadership.
-```
 
 </details>
 
@@ -236,6 +246,14 @@ An engineering deep dive into Chrome's Device Bound Session Credentials: how TPM
 
 ---
 
+### [Probabilistic data structures: Why Bloom filters are one of the most elegant hack](https://blogs.pranjalkumar.in/blog/probabilistic-data-structures-bloom-filters)
+*Pranjal Blogs · Mar 15, 2026*
+```txt
+A deep dive into probabilistic data structures; focusing on Bloom filters from first principles through production deployment. Covers the math, the bit manipulation, optimal hash functions, false positive tuning, counting variants, cuckoo filters, and real-world war stories from systems operating at billions of queries per second
+```
+
+---
+
 ### [AWS S3: how cheap HDDs became durable storage at scale](https://blogs.pranjalkumar.in/blog/aws-s3-object-storage)
 *Pranjal Blogs · Nov 4, 2025*
 ```txt
@@ -247,7 +265,7 @@ How Amazon S3 turns unreliable commodity HDDs into planet-scale durable storage 
 <details>
 <summary><b>Honors & Awards</b></summary>
 
-## Honors & Awards
+## [Honors & Awards](https://www.linkedin.com/in/pranjal--kumar/details/honors/)
 
 ### Architecture Kata Winner
 ***Issued by Bentley Systems · Mar 2026* | Associated with Bentley Systems**
@@ -270,7 +288,7 @@ Octo Challenge is a company-wide hackathon in Bentley focused on problem-solving
 
 ---
 
-### Smart India Hackathon - 2023 Finalist, Nationals
+### [Smart India Hackathon - 2023 Finalist, Nationals](https://www.scribd.com/document/1045664502/Pranjal-s-Team-Nominated-for-SIH-2023-Registration-CGU-Odisha)
 ***Issued by Smart India Hackathon · Sep 2023* | Associated with C. V. Raman Global University, Bhubaneswar**
 
 Zaira: Blockchain-based decentralized ODOP (One District, One Product) portal to empower local craftsmen of Kashmir, built on the Ethereum network.
@@ -279,12 +297,12 @@ Zaira: Blockchain-based decentralized ODOP (One District, One Product) portal to
 - **PS Code:** 1355
 - **Problem Statement:** Developing solutions to effective market linkage and promotion of One District One Product
 - **Team Ode to Code:** Pranjal Kumar (Lead), Suraj Kumar, Ravikant Sahu, S Bisakha, Aroshi Pattanaik, Annu Kumari
-- **Mentor:** Dr. Debendra Muduli
+- **Mentor:** [Dr. Debendra Muduli](https://www.linkedin.com/in/dr-debendra-muduli-aa595124/)
 - **Tech:** Truffle, Ganache, Ethereum, Metamask, Next.Js, Typescript
 
 ---
 
-### Letter of Recommendation
+### [Letter of Recommendation](https://www.scribd.com/document/1047245001/Letter-of-Recommendation-to-Pranjal-Kumar-by-IEEE-Bombay)
 ***Issued by IEEE Bombay · Feb 2023* | Associated with IEEE Bombay Section**
 
 Recognized as the top-performing intern by IEEE Bombay Section; received Letter of Recommendation for extraordinary technical contributions and professional excellence.
@@ -317,7 +335,7 @@ Awarded merit scholarship for academic excellence from Government of Jharkhand.
 
 ### Hire me to unlock my full potential:
 - [LinkedIn](https://www.linkedin.com/in/pranjal--kumar)
-- [Email](mailto:mail@pranjalkumar.in)
+- [Email](mailto:pranjalkumar.jobs@gmail.com)
 - [X/Twitter](https://x.com/PranjalKumar__/highlights)
 
 </details>
