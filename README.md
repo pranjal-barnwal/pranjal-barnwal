@@ -30,7 +30,7 @@ I also write about systems internals at [blogs.pranjalkumar.in](https://blogs.pr
 ### Competitive Programming
 - LeetCode Knight badge (Top 5%, rating 1880+, 500+ problems) 
 - CodeChef 3 stars (Ranked 27 in the April Long One 2022)
-- Ranked #1 in my college’s competitive programming leaderboard
+- Ranked [#1](https://www.scribd.com/document/1064112741/Top-Coders-of-CV-Raman-Global-University-Batch-2020-2024-Report-for-Competitive-Programming-CGU) in my college’s competitive programming leaderboard
 
 ---
 
