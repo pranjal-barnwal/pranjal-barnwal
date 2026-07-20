@@ -140,7 +140,7 @@ iTwin Services: Validation Platform Team
 ### [Bachelor of Technology - BTech, Computer Science: *C. V. Raman Global University, Bhubaneswar* (Nov, 2022 - May 2024)](https://cgu-odisha.ac.in/)
 - Activities and societies: Competitive Programming, UI-UX, Chess, Photography, Badminton
 - Hackathons & Events: Codekaze, Flutter Festival, Data Science Track, Android Study Jams, 30 Days of Google Cloud
-- Grade: [CGPA: 8.74](https://www.scribd.com/document/1045659856/Pranjal-Kumar-20010130-CGU-Odisha-College-BTech-result-CSE)
+- Grade: [CGPA: 8.74](https://www.scribd.com/document/1045659856/Pranjal-Kumar-20010130-CGU-Odisha-College-BTech-result-CSE), [Details](https://www.scribd.com/document/1039497104/Pranjal-Kumar-Resume)
 
 ---
 
